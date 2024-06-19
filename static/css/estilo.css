@@ -42,6 +42,10 @@ nav.navbar-transparente {
     text-align: center;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 .btn-custom {
     color: white;
     border-radius: 500px;
